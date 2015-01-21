@@ -5,9 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   We're a small locally-owned custom bike shop located at 123 Avenue of the Americas, New York, NY 20013. Come check us out!
 baseurl: "/cyclefitness" # the subpath of your site, e.g. /blog/
 url: "http://rahulramkumar.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: cyclefitness
 github_username:  jekyll
 contact: Contact Us
+facebook_username: cyclefitness
 
 # Build settings
 markdown: kramdown
