@@ -10,7 +10,7 @@ Road bikes are meant to be used on paved surfaces and are characterised by narro
 
 <h1>Mountain Bikes</h1> <br>
 <center><img src="/cyclefitness/assets/mountain2.jpg"></center>
-Lorem ipsum <br><br><br>
+Mountain bikes are intended for off-road use where any type of terrain is possible. Rain or shine a mountain bike will get you from Point-A to Point-B and let you have a hell of a time getting there. These are characterised by soft suspensions, wider, thicker wheels with large amounts of grip, and lower ratio gearing for hill climbing. <br><br><br>
 
 <h1>Track Bikes</h1> <br>
 <center><img src="/cyclefitness/assets/track2.jpg"></center>
