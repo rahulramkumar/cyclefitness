@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/cyclefitness" # the subpath of your site, e.g. /blog/
 url: "http://rahulramkumar.github.io" # the base hostname & protocol for your site
 twitter_username: cyclefitness
-github_username:  jekyll
+github_username:  rahulramkumar
 contact: Contact Us
 facebook_username: cyclefitness
 
